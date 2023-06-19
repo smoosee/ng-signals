@@ -250,16 +250,16 @@ __metadata:
   linkType: hard
 
 "@angular/compiler@npm:^16.0.0":
-  version: 16.0.0
-  resolution: "@angular/compiler@npm:16.0.0"
+  version: 16.1.1
+  resolution: "@angular/compiler@npm:16.1.1"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
-    "@angular/core": 16.0.0
+    "@angular/core": 16.1.1
   peerDependenciesMeta:
     "@angular/core":
       optional: true
-  checksum: 4aa431357582b46c269e313b79617b2a2ac5c14b90d9485abd79b7cc963d1332361e85def5bd8505cca7051ab0ff9665d7fea8ee7b9997647f44a2698fc3c710
+  checksum: f0029669f523a9bcb2e218d371f82df3662b037beca3af7cd59416329c44b7ed85843efb1abbdbc3de805185deb0704550e4bb4798e125008972a5842fefb93d
   languageName: node
   linkType: hard
 
