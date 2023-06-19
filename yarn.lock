@@ -304,18 +304,18 @@ __metadata:
   linkType: hard
 
 "@angular/platform-browser@npm:^16.0.0":
-  version: 16.0.0
-  resolution: "@angular/platform-browser@npm:16.0.0"
+  version: 16.1.1
+  resolution: "@angular/platform-browser@npm:16.1.1"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
-    "@angular/animations": 16.0.0
-    "@angular/common": 16.0.0
-    "@angular/core": 16.0.0
+    "@angular/animations": 16.1.1
+    "@angular/common": 16.1.1
+    "@angular/core": 16.1.1
   peerDependenciesMeta:
     "@angular/animations":
       optional: true
-  checksum: eb5f54796ac8f298fc02cb050af0623e8880bea97cefcc7cdaf49f2fe4e7f36010f66c6a05a458e6932723449fc44616a94a481079d559d12f52c9a170d623ae
+  checksum: 65bb41d7eb78ed6c7c581372291cb7b937dd4e301f9147a493049206858f3e627bb94c0140acd9ed5b0768f92bd4a037351f33768ab528842ce4b0f848e7b5e3
   languageName: node
   linkType: hard
 
