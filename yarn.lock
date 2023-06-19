@@ -7464,8 +7464,8 @@ __metadata:
   linkType: hard
 
 "ng-packagr@npm:^16.0.0":
-  version: 16.0.0
-  resolution: "ng-packagr@npm:16.0.0"
+  version: 16.1.0
+  resolution: "ng-packagr@npm:16.1.0"
   dependencies:
     "@rollup/plugin-json": ^6.0.0
     "@rollup/plugin-node-resolve": ^15.0.0
@@ -7493,10 +7493,10 @@ __metadata:
     rxjs: ^7.5.6
     sass: ^1.55.0
   peerDependencies:
-    "@angular/compiler-cli": ^16.0.0-next.0
+    "@angular/compiler-cli": ^16.0.0 || ^16.1.0-next.0
     tailwindcss: ^2.0.0 || ^3.0.0
     tslib: ^2.3.0
-    typescript: ">=4.9.3 <5.1"
+    typescript: ">=4.9.3 <5.2"
   dependenciesMeta:
     esbuild:
       optional: true
@@ -7505,7 +7505,7 @@ __metadata:
       optional: true
   bin:
     ng-packagr: cli/main.js
-  checksum: e4baac024263817075006a4a30393654a912167c7a5c2d63420d922bf08139f13084ec79da18c0778195c68bc77760e05289c246c39ed7a8c76879d310a1491e
+  checksum: 405734f51c430db346d37871c95a501e60c5da4366d3d45ba0bbb04c7648b0eb3dba17f18c7eb8db43b8521109794934cbc323522b26b9c6457dbb0e1957a435
   languageName: node
   linkType: hard
 
