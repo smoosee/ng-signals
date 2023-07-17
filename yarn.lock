@@ -264,14 +264,14 @@ __metadata:
   linkType: hard
 
 "@angular/core@npm:^16.0.0":
-  version: 16.0.0
-  resolution: "@angular/core@npm:16.0.0"
+  version: 16.1.5
+  resolution: "@angular/core@npm:16.1.5"
   dependencies:
     tslib: ^2.3.0
   peerDependencies:
     rxjs: ^6.5.3 || ^7.4.0
     zone.js: ~0.13.0
-  checksum: 11ccd29b4913348e49ab04fc70d58a3e86e9708080277785b012365921337dbc501f8b29ce9ef53d8de51259abc3708a89cb1e6f1d8609bd37d767f397e22b74
+  checksum: 1f9671277dfa46d439aa3fc653431f60a5b5c5e7a605cddea903855c4cbb86258fef8a49b5df51b8bc039a9992239fc441418220f29a2bf926003e4ff225cd3c
   languageName: node
   linkType: hard
 
